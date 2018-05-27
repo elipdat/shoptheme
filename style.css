@@ -1,0 +1,12 @@
+/*
+Theme Name: Shop Watch
+Author: elipdat
+Author URI: https://wordpress.org/
+Description: A storefront child theme.
+Version: 1.0.0
+Tags: shop, watch, blog
+Template: storefront
+Text Domain: shopwatch
+*/
+
+@import url("../storefront/style.css");
